@@ -45,7 +45,7 @@ HOW TO RUN
 
 git clone https://github.com/mayuri-bit/FACE-MASK-DETECTION-PROJECT
 
-cd face-mask-detector
+cd FACE-MASK-DETECTION-PROJECT
 
 2. Make sure the following files are present:
    
