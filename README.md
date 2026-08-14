@@ -43,7 +43,7 @@ HOW TO RUN
 
 1. Clone the repository:
 
-git clone https://github.com/your-username/face-mask-detector.git
+git clone https://github.com/mayuri-bit/FACE-MASK-DETECTION-PROJECT
 
 cd face-mask-detector
 
